@@ -1,4 +1,4 @@
-package pt.ist.alumnibiologica.utils;
+package pt.ist.alumnibiologica.website.utils;
 
 public interface Constants {
 	static final String GET_USER_BY_ID = "/getUser/{userId}";

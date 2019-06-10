@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import pt.ist.alumnibiologica.website.dto.UserDTO;
 import pt.ist.alumnibiologica.website.service.UserService;
+import pt.ist.alumnibiologica.website.utils.Constants;
 
 @RequestMapping("/user")
 @RestController
