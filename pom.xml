@@ -12,7 +12,7 @@
 	</parent>
 
 	<groupId>pt.ist.alumnibiologica</groupId>
-	<artifactId>website-home</artifactId>
+	<artifactId>alumni-website</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>Alumni Biologica Website</name>
