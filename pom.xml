@@ -14,7 +14,7 @@
 	<groupId>pt.ist.alumnibiologica</groupId>
 	<artifactId>alumni-website</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Alumni Biologica Website</name>
 	<description>Alumni Biologica Website</description>
 
@@ -52,11 +52,11 @@
 		</dependency>
 
 		<!-- TOMCAT -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>provided</scope>
-		</dependency>
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.springframework.boot</groupId> -->
+<!-- 			<artifactId>spring-boot-starter-tomcat</artifactId> -->
+<!-- 			<scope>provided</scope> -->
+<!-- 		</dependency> -->
 
 		<!-- TEST -->
 		<dependency>
